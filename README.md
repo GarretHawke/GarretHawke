@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- GitHub Stats -->
-
-[![Garret Hawke's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrethawke&include_all_commits=true&count_private=true&theme=cobalt)](https://github.com/garrethawke/github-readme-stats)
-
-<!-- Used languages stats -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke&langs_count=10&layout=compact&theme=cobalt)](https://github.com/garrethawke/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/garrethawke/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=garrethawke&include_all_commits=true&count_private=true&theme=cobalt" />
+  </a>
+  <a href="https://github.com/garrethawke/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke&langs_count=10&layout=compact&theme=cobalt" />
+  </a>
+</p>
