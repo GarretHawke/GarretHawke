@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats -->
 
-[![Garret Hawke's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrethawke)](https://github.com/garrethawke/github-readme-stats)
+[![Garret Hawke's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrethawke&layout=compact)](https://github.com/garrethawke/github-readme-stats)
 
 <!-- Used languages stats -->
 
