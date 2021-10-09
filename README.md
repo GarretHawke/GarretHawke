@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <!-- Used languages stats -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke)](https://github.com/garrethawke/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke&langs_count=10&layout=compact)](https://github.com/garrethawke/github-readme-stats)
