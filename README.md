@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- GitHub Stats -->
+
 [![garrethawke's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrethawke&show_icons=true&theme=cobalt)](https://github.com/garrethawke/github-readme-stats)
+
+<!-- Used languages stats -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke)](https://github.com/garrethawke/github-readme-stats)
