@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github.com/garrethawke/github-readme-stats">
+  <a href="https://github.com/GarretHawke?tab=repositories">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=garrethawke&include_all_commits=true&count_private=true&theme=cobalt" />
   </a>
-  <a href="https://github.com/garrethawke/github-readme-stats">
+  <a href="https://github.com/GarretHawke?tab=repositories">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke&langs_count=10&layout=compact&theme=cobalt" />
   </a>
 </p>  
