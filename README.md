@@ -59,3 +59,6 @@ I'm Aleksandra and I'm at the beginning of my path as a front-end developer
 </p>  
 
 ---  
+<p align="center">
+  <img height="150" src="https://github.com/GarretHawke/GarretHawke/blob/master/assets/cat.gif" />
+</p>
