@@ -43,3 +43,4 @@ I'm Aleksandra and I'm at the beginning of my path as a front-end developer
     <img height="40" align="center" src="https://img.shields.io/badge/-Photo--filter-e582d8?style=for-the-badge&logo=javascript" />
   </a>
 </p>
+<br>
