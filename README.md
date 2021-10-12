@@ -31,13 +31,13 @@ I'm Aleksandra and I'm at the beginning of my path as a front-end developer
 ## Training projects ##
 <br>
 <div align="center">
-  <a href="https://garrethawke-english-for-kids.netlify.app/">
+  <a href="https://garrethawke-english-for-kids.netlify.app/" target="_blank">
     <img height="40" align="center" src="https://img.shields.io/badge/-English for kids-f1e05a?style=for-the-badge&logo=react" />
   </a>
-  <a href="https://romantic-banach-035a2a.netlify.app/">
+  <a href="https://romantic-banach-035a2a.netlify.app/" target="_blank">
     <img height="40" align="center" src="https://img.shields.io/badge/-Match--match game-75eeb2?style=for-the-badge&logo=typescript" />
   </a>
-  <a href="https://rolling-scopes-school.github.io/garrethawke-JSFE2021Q1/photo-filter/">
+  <a href="https://rolling-scopes-school.github.io/garrethawke-JSFE2021Q1/photo-filter/" target="_blank">
     <img height="40" align="center" src="https://img.shields.io/badge/-Photo--filter-e582d8?style=for-the-badge&logo=javascript" />
   </a>
 </div>
