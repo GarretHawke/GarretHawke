@@ -2,7 +2,7 @@
 I'm Aleksandra and I'm at the beginning of my path as a front-end developer
 
 ## Languages and tools ##
-<p align="center">
+<div align="center">
   <img align="center" src="https://img.shields.io/badge/-JavaScript-555?style=for-the-badge&logo=JavaScript" />
   <img align="center" src="https://img.shields.io/badge/-HTML5-555?style=for-the-badge&logo=HTML5" />
   <img align="center" src="https://img.shields.io/badge/-CSS3-555?style=for-the-badge&logo=CSS3&logoColor=0170ba" />
@@ -16,21 +16,21 @@ I'm Aleksandra and I'm at the beginning of my path as a front-end developer
   <img align="center" src="https://img.shields.io/badge/-MongoDB-555?style=for-the-badge&logo=MongoDB" />
   <img align="center" src="https://img.shields.io/badge/-Netlify-555?style=for-the-badge&logo=Netlify" />
   <img align="center" src="https://img.shields.io/badge/-Heroku-555?style=for-the-badge&logo=Heroku&logoColor=8062a7" />
-</p>  
+</div>  
 
 ## Github stats ##
-<p align="center">
+<div align="center">
   <a href="https://github.com/GarretHawke?tab=repositories">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=garrethawke&include_all_commits=true&count_private=true&theme=cobalt" />
   </a>
   <a href="https://github.com/GarretHawke?tab=repositories">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrethawke&langs_count=10&layout=compact&theme=cobalt" />
   </a>
-</p>  
+</div>  
 
 ## Training projects ##
 <br>
-<p align="center">
+<div align="center">
   <a href="https://garrethawke-english-for-kids.netlify.app/">
     <img height="40" align="center" src="https://img.shields.io/badge/-English for kids-f1e05a?style=for-the-badge&logo=react" />
   </a>
@@ -40,10 +40,10 @@ I'm Aleksandra and I'm at the beginning of my path as a front-end developer
   <a href="https://rolling-scopes-school.github.io/garrethawke-JSFE2021Q1/photo-filter/">
     <img height="40" align="center" src="https://img.shields.io/badge/-Photo--filter-e582d8?style=for-the-badge&logo=javascript" />
   </a>
-</p>
+</div>
 
 ## Contact me ##  
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/aleksandra-barabash/">
     <img height="30" align="center" src="https://img.shields.io/badge/-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
@@ -53,10 +53,13 @@ I'm Aleksandra and I'm at the beginning of my path as a front-end developer
   <a href="https://www.instagram.com/sashka__barabashka/">
     <img height="30" align="center" src="https://img.shields.io/badge/-instagram-aa3897?style=for-the-badge&logo=instagram&logoColor=fff" />
   </a>
-  <a href="mailto:alexandra17au@gmail.com">
-    <img height="30" align="center" src="https://img.shields.io/badge/-gmail-ea4235?style=for-the-badge&logo=gmail&logoColor=fff" />
-  </a>
-</p>  
+  <br>  
+  <br>
+  <div align="center">
+    :outbox_tray:
+    <a href="mailto:alexandra17au@gmail.com">alexandra17au@gmail.com</a>
+  </div>
+</div>  
 
 ---  
 <p align="center">
